@@ -3,8 +3,10 @@ Blender Script where a selected object will be replaced with a collection of mes
 
 # Demo #
 Replacing a box with a collection of frames simulating animation (animatic): 
-![image](https://github.com/user-attachments/assets/64ae8cea-60d0-4779-af99-1b7884920b76)
 
-![image](https://github.com/user-attachments/assets/720fd9c5-ad0b-4699-a530-66658e832a8b)
+![boxdemo](https://github.com/user-attachments/assets/38454193-c4ea-43cf-8122-81618f26f1bc)
 
+![sideviewboxdemo](https://github.com/user-attachments/assets/dfd58b5f-82cc-4be5-8b48-6486d857464f)
+
+![boxdemoreplace](https://github.com/user-attachments/assets/8513b32b-56f8-4088-bb1a-0bcd0508f764)
 
